@@ -2,21 +2,21 @@
 ## I'm ⚙️Imbeded/Network Dveloper⚙️
 <hr/>
 
-- 🙋‍♂️ Hello World!
+- ### 🙋‍♂️ Hello World!###
     > I'm a student to be a **Imbeded/Network Developer**
     >
     > I want to be a **Network System Engineer**
     >
     > I want to be a **Reliable Person**
-- 🌱 Learning Things
+- ### 🌱 Learning Things ###
     - Linux(Ubuntu)
     - Cisco Network
     - Network Basis
-- 👯 Want to Learn
+- ### 👯 Want to Learn ###
     - DBMS
     - Server Development
     - Backend Development
-- ❤️ Loving Things
+- ### ❤️ Loving Things ###
     - League of Legend   🎮
     - Playing baseball  ⚾
     - Sleeping 😪 
