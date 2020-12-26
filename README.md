@@ -1,16 +1,33 @@
-### Hi there 👋
 
-<!--
-**lot8229/lot8229** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm ⚙️Imbeded/Network Dveloper⚙️
+<hr/>
 
-Here are some ideas to get you started:
+- 🙋‍♂️ Hello World!
+    > I'm a student to be a **Imbeded/Network Developer**
+    >
+    > I want to be a **Network System Engineer**
+    >
+    > I want to be a **Reliable Person**
+- 🌱 Learning Things
+    - Linux(Ubuntu)
+    - Cisco Network
+    - Network Basis
+- 👯 Want to Learn
+    - DBMS
+    - Server Development
+    - Backend Development
+- ❤️ Loving Things
+    - League of Legend   🎮
+    - Playing baseball  ⚾
+    - Sleeping 😪 
+    - WristWatch ⌚
+- 💬 Emails
+    - S20037@gsm.hs.kr (School)
+    - lot8229@kakao.com (Personal)
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+  [![lot8229's github stats](https://github-readme-stats.vercel.app/api?username=lot8229)](https://github.com/anuraghazra/github-readme-stats)
