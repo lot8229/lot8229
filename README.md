@@ -3,30 +3,19 @@
 <hr/>
 
 - ### 🙋‍♂️ Hello World! ###
-    > I'm a student to be a **Imbeded/Network Developer**
-    >
-    > I want to be a **Network System Engineer**
-    >
     > I want to be a **Reliable Person**
 - ### 🌱 Learning Things ###
-    - Linux(Ubuntu)
-    - Cisco Network
     - Network Basis
 - ### 👯 Want to Learn ###
-    - DBMS
-    - Server Development
-    - Backend Development
+    - Socket Programing
 - ### ❤️ Loving Things ###
     - League of Legend   🎮
     - Playing baseball  ⚾
-    - Sleeping 😪 
     - WristWatch ⌚
 - 💬 Emails
     - S20037@gsm.hs.kr (School)
     - lot8229@kakao.com (Personal)
 <br/>
-
-
 
 
 
