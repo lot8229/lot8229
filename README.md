@@ -6,6 +6,7 @@
     > I want to be a **Reliable Person**
 - ### 🌱 Learning Things ###
     - Network Basis
+    - Debian Linux
 - ### 👯 Want to Learn ###
     - Socket Programing
 - ### ❤️ Loving Things ###
