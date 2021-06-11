@@ -1,8 +1,5 @@
-
-## I don't know what i have to do ...
-
 - ### 🙋‍♂️ Hello World! ###
-    > I want to be a **Reliable Person**
+- ### 🤬Fuck you world!###
 - 💬 Emails
     - S20037@gsm.hs.kr (School)
     - lot8229@kakao.com (Personal)
